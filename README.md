@@ -11,5 +11,7 @@ You may want to change the keyboard layout in the .xinitrc
 
 PREREQ. xorg-server, xorg-xinit, libxinerama, libxft, feh, unclutter, ttf-font-awesome and a ttf of your choice I personally use ttf-hack but you can change that in the script (xorg-xbacklight for laptops)
 
+For Laptops you can enable backlight shortcuts that are commented out in the dwm config and the battery percentage meter is commented out in the slstatus config
+
 
 Feel free to use it.
