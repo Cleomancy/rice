@@ -3,7 +3,10 @@ like pimp my ride
 
 I use DWM and friends to make my pc look pretty, This is my preconfigured build
 
-rice.sh is made for arch base distros so you'll probably have to install the dependencies yourself ALSO you may want to change the keyboard layout in the .xinitrc
+Artix linux has now disabled 3rd party repos since June 2021 that's why there are two scripts, one specifically for artix and one for arch based distros.
+Use them accordingly.
+
+You may want to change the keyboard layout in the .xinitrc
 
 
 PREREQ. xorg-server, xorg-xinit, libxinerama, libxft, feh, unclutter, ttf-font-awesome and a ttf of your choice I personally use ttf-hack but you can change that in the script (xorg-xbacklight for laptops)
