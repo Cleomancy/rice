@@ -6,6 +6,8 @@ I use DWM and friends to make my pc look pretty, This is my preconfigured build
 Artix linux has now disabled 3rd party repos since June 2021 that's why there are two scripts, one specifically for artix and one for arch based distros.
 Use them accordingly.
 
+I assume you have base-devel installed
+
 You may want to change the keyboard layout in the .xinitrc
 
 
