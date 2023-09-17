@@ -9,7 +9,12 @@ fi
 cd ..
 userhome=$(pwd)
 
+echo "[universe]
+Server = https://universe.artixlinux.org/$arch" >> /etc/pacman.conf
+
 pacman -Syyyy --noconfirm --needed  artix-archlinux-support
+
+pacman-key --populate archlinux
 
 echo "[extra]
 Include = /etc/pacman.d/mirrorlist-arch" >> /etc/pacman.conf
