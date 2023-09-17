@@ -1,5 +1,5 @@
 # RICE MY LINUX
-like pimp my ride
+## like pimp my ride
 
 I use DWM and friends to make my pc look pretty. This is my preconfigured build.
 
@@ -18,3 +18,7 @@ For Laptops you can enable backlight shortcuts that are commented out in the dwm
 
 
 Feel free to use it.
+
+##Install
+
+git clone it.
