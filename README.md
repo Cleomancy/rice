@@ -19,6 +19,6 @@ For Laptops you can enable backlight shortcuts that are commented out in the dwm
 
 Feel free to use it.
 
-##Install
+## Install
 
 git clone it.
